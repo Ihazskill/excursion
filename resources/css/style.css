@@ -1,1 +1,20 @@
 /* Universal Styles */
+body {
+  background-color: black;
+}
+h1{
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.bluelink {
+  color: aquamarine;
+  font-size: 16px;
+
+}
+p{
+  text-align: center;
+  font-family: verdana;
+}
